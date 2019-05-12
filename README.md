@@ -8,9 +8,6 @@ yarn run ios
 ```
 
 # Screenshots
-
-![](screenshots/screen3.png)
-
-![](screenshots/screen1.png) 
-
-![](screenshots/screen2.png)
+Layout | Full view | Random |
+------------ | -------------  | -------------
+![](screenshots/screen3.png) | ![](screenshots/screen1.png) | ![](screenshots/screen2.png)
